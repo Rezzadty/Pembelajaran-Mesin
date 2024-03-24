@@ -194,7 +194,6 @@ var = 3
 print(var) # outputnya angka 3 
 print()
 print("Nama variabel mana yang ilegal?: ")
-print("```python")
 print("my_var")
 print("m")
 print("101")
