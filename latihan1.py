@@ -1,3 +1,6 @@
+#Nama : Reza Aditya Prabowo
+#NIM : A11.2022.14201
+#Kelompok : A11.4419
 print("Latihan 1")
 print("Hello World!@#!#!$")
 print("test")
