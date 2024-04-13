@@ -500,7 +500,7 @@ print()
 
 # contohnya
 kamus = {"cat" : "chat", "dog" : "chien", "horse" : "cheval"}
-phoneNumbers = {'boss' : 5551234567, 'Suzy' : [22657854310,52852352]}
+phoneNumbers = {'boss' : 5551234567, 'Callysta' : [22657854310,52852352]}
 emptyDictionary = {}
 
 print()
@@ -510,8 +510,8 @@ print(emptyDictionary)
 print()
 
 print(kamus['cat'])
-print(phoneNumbers['Suzy'])
-print(phoneNumbers['Suzy'][0])
+print(phoneNumbers['Callysta
+print(phoneNumbers['Callysta'][0])
 
 print()
 
@@ -643,9 +643,9 @@ item = polEngDict["zamek"]    # outputs: castle
 
 # 4. Menambah dan menghapus item dari dictionary
 myPhonebook = {}    # an empty dictionary
-myPhonebook["Adam"] = 3456783958    # create/add a key-value pair
+myPhonebook["Rafi"] = 3456783958    # create/add a key-value pair
 print(myPhonebook)    # outputs: {'Adam': 3456783958}
-del myPhonebook["Adam"]
+del myPhonebook["Rafi"]
 print(myPhonebook)    # outputs: {}
 
 # 5. Menampilkan cara menggunakan for loop untuk melewati dictionary
