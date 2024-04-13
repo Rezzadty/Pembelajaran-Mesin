@@ -443,7 +443,7 @@ while x<11:
 
 print()
 
-for ch in "ratna.lestari@ugm.ac.id":
+for ch in "irma.setyanti@undip.ac.id":
     if ch == "@":
         break
     print(ch,end=' ')
@@ -727,7 +727,7 @@ while x < 11:
 
 print()
 
-for ch in "john.smith@pythoninstitute.org":
+for ch in "reza.aditya@pythoninstitute.org":
     if ch == "@":
         break
     print(ch,end="")
