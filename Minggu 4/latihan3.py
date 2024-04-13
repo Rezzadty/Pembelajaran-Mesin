@@ -765,19 +765,19 @@ pp = pprint.PrettyPrinter(indent=4)
 
 mahasiswa = [
     {
-        'nim' : '08/123123/PA/123213',
-        'nama' : 'Guntur Budi H',
+        'nim' : '08/202214/PA/202214',
+        'nama' : 'Reza Aditya PRabowo',
         'nilai' : [80,90,75,30]
     },
     {
-        'nim' : '08/213123/PA/98120',
-        'nama' : 'Annisa Maulida N',
+        'nim' : '08/202513/PA/081103',
+        'nama' : 'Rafasya Rayhan Nugroho',
         'nilai' : [100,90,77,110]
     }    
 ]
 mahasiswa_baru = {
-    'nim' : '12/12414/PA/12312',
-    'nama' : 'Miftahhurahma Rosyda'
+    'nim' : '12/202614/PA/050474',
+    'nama' : 'Erwin Widhiutomo'
 }
 
 mahasiswa.append(mahasiswa_baru)
